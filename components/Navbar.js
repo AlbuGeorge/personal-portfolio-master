@@ -27,7 +27,7 @@ const Navbar = () => {
     <Div1>
       <Nav>
         <div>
-          <Link href="/" passHref>
+          <Link to="home">
             <StyledLink>
               <img src="/Logo.svg"></img>
             </StyledLink>
