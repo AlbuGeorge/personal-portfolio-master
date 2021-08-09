@@ -15,7 +15,9 @@
     "react-icons": "^4.2.0",
     "react-particles-js": "^3.5.3",
     "react-scroll": "^1.8.3",
+    "react-tsparticles": "^1.33.2",
     "rough-notation": "^0.5.1",
-    "styled-components": "^5.2.1"
+    "styled-components": "^5.2.1",
+    "tsparticles": "^1.33.2"
   }
 }
